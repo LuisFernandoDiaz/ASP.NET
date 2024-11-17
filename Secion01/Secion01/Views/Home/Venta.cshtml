@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var nombre = "Kevin el Brayan";
+
+    int suma (int suma1, int suma2)
+    {
+        return suma1 + suma2;
+    };
+
+    var juan = 21;
+    var pedro = 14;
+    var mayor = 18;
+
+    String edad(int edad, String nombre)
+    {
+        var diferencia = mayor - edad;
+        if (edad > mayor){
+            return nombre + " Es mayor de edad";
+        } else
+        {
+            return nombre + " es menor de edad, le falta " + diferencia;
+        }
+    };
+
+    
+
+}
+<h1 class="text-primary">Paginas de Ventas</h1>
+
+<p class="text-success">Esta es una pagina de @nombre. Practicando @suma(2,3) años. Son las @DateTime.Now</p>
+
+<p class="text-success"> @edad(juan, "Juan") </p>
+<p class="text-success"> @edad(pedro, "Pedro") </p>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>NOMBRE</th>
+            <th>APELLIDO</th>
+            <th>DNI</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Luis</td>
+            <td>Diaz</td>
+            <td>77817253</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Thomas</td>
+            <td>Palacios</td>
+            <td>8876542</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Whalter</td>
+            <td>Guzman</td>
+            <td>9876542</td>
+        </tr>
+
+        @{
+            for(int i=0; i<=50; i++ ){
+                <tr>
+                    <td>@(i + 4)</td>
+                    <td>Whalter</td>
+                    <td>Guzman</td>
+                    <td>9876542</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

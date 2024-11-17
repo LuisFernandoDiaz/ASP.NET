@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\data\\session02_bcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\data\\session02_bcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02_b\\session02_b\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783912DA-EC35-4EDD-ACE8-DBC81EA7BB17}|Session02_b\\Session02_b.csproj|solutionrelative:session02_b\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:00.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:35:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\appsettings.json",
+              "RelativeDocumentMoniker": "Session02_b\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\appsettings.json",
+              "RelativeToolTip": "Session02_b\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T22:09:47.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Program.cs",
+              "RelativeDocumentMoniker": "Session02_b\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Program.cs",
+              "RelativeToolTip": "Session02_b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:19:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:19:13.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Ventas\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:04.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Session02_b\\Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Session02_b\\Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T22:44:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Session02_bContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Data\\Session02_bContext.cs",
+              "RelativeDocumentMoniker": "Session02_b\\Data\\Session02_bContext.cs",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Data\\Session02_bContext.cs",
+              "RelativeToolTip": "Session02_b\\Data\\Session02_bContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:26:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Session02_b\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Session02_b\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:18:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "Session02_b\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02_b\\Session02_b\\Models\\Ventas.cs",
+              "RelativeToolTip": "Session02_b\\Models\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:11:50.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

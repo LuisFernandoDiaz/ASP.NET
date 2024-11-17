@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Session02_b.Models.Ventas>
+
+@{
+    ViewData["Title"] = "Index";
+    decimal  total = 0;
+    decimal suma = 0;
+}
+<style>
+    /* Estilos globales */
+   
+    body{
+        background-color:#f9f5e8;
+    }
+
+    /* Estilos del cuadro de ventas */
+    .product-card {
+        background-color: #fff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .product-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+        }
+
+    /* Imagen del producto */
+    .product-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    /* Detalles del producto */
+    .product-details {
+        padding: 20px;
+    }
+
+    .product-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .product-description {
+        font-size: 1rem;
+        color: #666;
+        margin-bottom: 15px;
+    }
+
+    .product-price {
+        font-size: 1.25rem;
+        font-weight: bold;
+        color: #e74c3c;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    /* Botón de compra */
+    .buy-button {
+        padding: 10px 20px;
+        font-size: 1.1rem;
+        color: #fff;
+        background-color: #27ae60;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .buy-button:hover {
+            background-color: #2ecc71;
+        }
+</style>
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Registrar Producto</a>
+</p>
+
+
+<h1>Listado </h1>
+
+@foreach (var item in Model) {
+
+
+            <div class="product-card">
+                <div class="product-details">
+                    <h5 class="product-title">Descripcion: @Html.DisplayFor(modelItem => item.descripcion)</h5>
+                    <p class="product-description"> Cantidad: @Html.DisplayFor(modelItem => item.cantidad)</p>
+                    <span class="product-price">Precio: @Html.DisplayFor(modelItem => item.precio_unitario)</span>
+                    <button class="buy-button"><a asp-action="Edit" asp-route-id="@item.id">Edit</a></button>
+                    <button class="buy-button"><a asp-action="Delete" asp-route-id="@item.id">Delete</a></button>
+                </div>
+            </div>
+                suma = item.cantidad  * item.precio_unitario;
+                
+                total += suma;
+            
+           
+}
+<h4>Precio total: @total</h4>
+</table>
