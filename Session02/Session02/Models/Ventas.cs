@@ -9,7 +9,7 @@ namespace Session02.Models
     {
         
         public int id { get; set; }
-        public string? descripcion { get; set; } //se cologo '?'  para poder haceptar objetos nullos = NULL
+        public string? descripcion { get; set; } //se cologo '?'  para poder haceptar objetos nulos = NULL
         public int cantidad { get; set; }
         public decimal precio_unitario { get; set; }
 

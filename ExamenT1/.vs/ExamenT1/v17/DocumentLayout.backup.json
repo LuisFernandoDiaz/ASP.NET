@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\views\\home\\edades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\views\\home\\edades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|c:\\users\\mayky\\source\\repos\\exament1\\exament1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638612BC-6D47-4E64-86EC-371FB3920802}|ExamenT1\\ExamenT1.csproj|solutionrelative:exament1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamenT1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamenT1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:29:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenT1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamenT1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T01:42:36.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edades.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Home\\Edades.cshtml",
+              "RelativeDocumentMoniker": "ExamenT1\\Views\\Home\\Edades.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Home\\Edades.cshtml",
+              "RelativeToolTip": "ExamenT1\\Views\\Home\\Edades.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T01:42:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenT1\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "ExamenT1\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:23:06.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamenT1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamenT1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:13:21.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamenT1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamenT1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T00:05:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ExamenT1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ExamenT1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T01:42:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "ExamenT1\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "ExamenT1\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:12:28.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExamenT1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExamenT1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:10:13.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenT1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Program.cs",
+              "RelativeToolTip": "ExamenT1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:05:19.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "ExamenT1\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\Models\\Ventas.cs",
+              "RelativeToolTip": "ExamenT1\\Models\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:48:38.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenT1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT1\\ExamenT1\\appsettings.json",
+              "RelativeToolTip": "ExamenT1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T23:45:25.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

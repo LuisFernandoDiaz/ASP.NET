@@ -20,10 +20,18 @@ namespace Session02_b.Controllers
         }
 
         // GET: Ventas
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string buscarDes)
         {
-            return View(await _context.Ventas.ToListAsync());
+            var ventas = from m in _context.Ventas
+                         select m;
+            if (!String.IsNullOrEmpty(buscarDes))
+            {
+                ventas = ventas.Where(s => s.descripcion!.Contains(buscarDes));
+            }
+
+            return View(await ventas.ToListAsync());
         }
+
 
         // GET: Ventas/Details/5
         public async Task<IActionResult> Details(int? id)

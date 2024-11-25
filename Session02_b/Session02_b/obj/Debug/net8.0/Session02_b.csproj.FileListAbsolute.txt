@@ -257,3 +257,4 @@ C:\Users\Mayky\OneDrive\Escritorio\CursoC#\Session02_b\Session02_b\obj\Debug\net
 C:\Users\Mayky\OneDrive\Escritorio\CursoC#\Session02_b\Session02_b\obj\Debug\net8.0\Session02_b.pdb
 C:\Users\Mayky\OneDrive\Escritorio\CursoC#\Session02_b\Session02_b\obj\Debug\net8.0\Session02_b.genruntimeconfig.cache
 C:\Users\Mayky\OneDrive\Escritorio\CursoC#\Session02_b\Session02_b\obj\Debug\net8.0\ref\Session02_b.dll
+C:\Users\Mayky\OneDrive\Escritorio\CursoC#\Session02_b\Session02_b\obj\Debug\net8.0\Session02_b.sourcelink.json

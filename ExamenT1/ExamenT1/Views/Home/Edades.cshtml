@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    var juan = 11;
+    var pedro = 3;
+
+    String edad(int edad, String nombre)
+    {
+        
+        if (edad > 0 && edad < 5)
+        {
+            var diferencia = Math.Abs(edad - 5);
+            return nombre + " tiene " + edad + " años, se encuentra en la etapa de Infancia, le falta " + diferencia + " año para la etapa de niñes";
+        }
+        else if (edad > 5 && edad < 11)
+        {
+            var diferencia = Math.Abs(edad - 11);
+            return nombre + " tiene " + edad + " años, se encuentra en la etapa de niñes, le falta "+diferencia+" año para la etapa de adolecencia";
+        }
+        else if (edad > 11 && edad < 19)
+        {
+            var diferencia = Math.Abs(edad - 19);
+            return nombre + " tiene " + edad + " años, se encuentra en la etapa de adolecencia, le falta " + diferencia + " año para la etapa de Juventud ";
+        }
+        else if (edad > 19 && edad < 24)
+        {
+            var diferencia = Math.Abs(edad - 24);
+            return nombre + " tiene " + edad + " años, se encuentra en la etapa de Juventud, le falta " + diferencia + " año para la etapa de Adultez ";
+        }
+        else if (edad > 24 && edad < 60)
+        {
+            var diferencia = Math.Abs(edad - 60);
+            return nombre + " tiene " + edad + " años, se encuentra en la etapa de Adultez, le falta " + diferencia + " año para la etapa de Ancianidad";
+        }
+        else 
+        {
+            
+            return nombre + " tiene " + edad + " años, se encuentra en la etapa de Ancianidad";
+        }
+    };
+
+}
+
+
+
+<h1>Edades entre Juan y Pedro</h1>
+
+<p>Sabiendo que Juan es mayor que Pedro y además que ambos tienen una diferencia de edad de 8 años, entonces:</p>
+
+<h3>Respuesta</h3>
+
+<p class="text-success"> @edad(juan, "Juan") </p>
+<p class="text-primary"> @edad(pedro, "Pedro") </p>

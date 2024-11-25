@@ -11,12 +11,28 @@
       "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\views\\misventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\session02\\session02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D2D610E6-998C-496D-832D-3CBDBAE427D2}|Session02\\Session02.csproj|solutionrelative:session02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Session02\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Session02\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:50:55.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Program.cs",
+              "RelativeDocumentMoniker": "Session02\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Program.cs",
+              "RelativeToolTip": "Session02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:39:44.364Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,27 +86,27 @@
               "RelativeDocumentMoniker": "Session02\\Views\\MisVentas\\Index.cshtml",
               "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\MisVentas\\Index.cshtml",
               "RelativeToolTip": "Session02\\Views\\MisVentas\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-16T22:04:24.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Session02\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Session02\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-16T21:41:12.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Session02\\Views\\_ViewStart.cshtml",
@@ -80,8 +114,7 @@
               "RelativeToolTip": "Session02\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T21:29:44.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T21:29:44.603Z"
             },
             {
               "$type": "Document",
@@ -91,40 +124,40 @@
               "RelativeDocumentMoniker": "Session02\\Controllers\\MisVentas.cs",
               "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Controllers\\MisVentas.cs",
               "RelativeToolTip": "Session02\\Controllers\\MisVentas.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T21:20:16.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Ventas.cs",
               "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Models\\Ventas.cs",
               "RelativeDocumentMoniker": "Session02\\Models\\Ventas.cs",
               "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Models\\Ventas.cs",
               "RelativeToolTip": "Session02\\Models\\Ventas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T21:07:54.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\appsettings.json",
               "RelativeDocumentMoniker": "Session02\\appsettings.json",
               "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\appsettings.json",
               "RelativeToolTip": "Session02\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-16T20:42:18.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Session02\\Controllers\\HomeController.cs",
@@ -132,12 +165,11 @@
               "RelativeToolTip": "Session02\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:41:53.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T20:41:53.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Session02\\Session02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Session02\\Views\\Home\\Index.cshtml",

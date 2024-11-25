@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Repaso_session3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C92E4A-E369-48CC-B1E2-0FE878F078CF}|Repaso_session3\\Repaso_session3.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\repaso_session3\\repaso_session3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C92E4A-E369-48CC-B1E2-0FE878F078CF}|Repaso_session3\\Repaso_session3.csproj|solutionrelative:repaso_session3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C92E4A-E369-48CC-B1E2-0FE878F078CF}|Repaso_session3\\Repaso_session3.csproj|c:\\users\\mayky\\onedrive\\escritorio\\cursoc#\\repaso_session3\\repaso_session3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C92E4A-E369-48CC-B1E2-0FE878F078CF}|Repaso_session3\\Repaso_session3.csproj|solutionrelative:repaso_session3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Repaso_session3\\Repaso_session3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Repaso_session3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Repaso_session3\\Repaso_session3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Repaso_session3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T20:32:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Repaso_session3\\Repaso_session3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Repaso_session3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\OneDrive\\Escritorio\\CursoC#\\Repaso_session3\\Repaso_session3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Repaso_session3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T20:32:45.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

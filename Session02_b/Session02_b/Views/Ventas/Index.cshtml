@@ -1,16 +1,86 @@
-﻿@model IEnumerable<Session02_b.Models.Ventas>
+﻿@using Microsoft.CodeAnalysis
+@model IEnumerable<Session02_b.Models.Ventas>
 
 @{
     ViewData["Title"] = "Index";
     decimal  total = 0;
     decimal suma = 0;
+    int elemento = 0;
 }
+
+
+
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Registrar Producto</a>
+</p>
+
+
+<form asp-asp-controller="Ventas" asp-action="Index">
+
+    <p>
+        <div class="col-sm-3">
+            <input type="text" class="form-control" name="buscarDes" id="inputPassword">
+        </div>
+        <button type="submit" name="Buscar" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Bottom popover">
+            Buscar
+        </button>
+    </p>
+
+</form>
+
+<h1>Listado </h1>
+<div id="titulo">
+@foreach (var item in Model) {
+
+
+    <div class="product-card">
+        <div class="product-details">
+            <h5 class="product-title">Descripcion: @Html.DisplayFor(modelItem => item.descripcion)</h5>
+            <p id="cantidad" class="product-description"> Cantidad: @Html.DisplayFor(modelItem => item.cantidad)</p>
+            <span class="product-price">Precio: @Html.DisplayFor(modelItem => item.precio_unitario)</span>
+            <button class="buy-button"><a asp-action="Edit" asp-route-id="@item.id">Edit</a></button>
+            <button class="buy-button"><a asp-action="Delete" asp-route-id="@item.id">Delete</a></button>
+        </div>
+    </div>
+
+    suma = item.cantidad  * item.precio_unitario;
+
+    total += suma;
+
+    elemento = item.cantidad;
+
+    if (elemento < 10)
+    {
+        <style>
+            #cantidad {
+                color:red;
+            }
+        </style>
+
+    }
+        
+}
+</div>
+<h4>Precio total: @total</h4>
+
+
+
 <style>
     /* Estilos globales */
-   
-    body{
-        background-color:#f9f5e8;
+
+    body {
+        background-color: #f9f5e8;
     }
+
+    #titulo{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 22px;
+    }
+
 
     /* Estilos del cuadro de ventas */
     .product-card {
@@ -18,9 +88,10 @@
         border-radius: 8px;
         overflow: hidden;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        width: 300px;
+        width: 240px;
         text-align: center;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
+        
     }
 
         .product-card:hover {
@@ -77,33 +148,3 @@
             background-color: #2ecc71;
         }
 </style>
-
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Registrar Producto</a>
-</p>
-
-
-<h1>Listado </h1>
-
-@foreach (var item in Model) {
-
-
-            <div class="product-card">
-                <div class="product-details">
-                    <h5 class="product-title">Descripcion: @Html.DisplayFor(modelItem => item.descripcion)</h5>
-                    <p class="product-description"> Cantidad: @Html.DisplayFor(modelItem => item.cantidad)</p>
-                    <span class="product-price">Precio: @Html.DisplayFor(modelItem => item.precio_unitario)</span>
-                    <button class="buy-button"><a asp-action="Edit" asp-route-id="@item.id">Edit</a></button>
-                    <button class="buy-button"><a asp-action="Delete" asp-route-id="@item.id">Delete</a></button>
-                </div>
-            </div>
-                suma = item.cantidad  * item.precio_unitario;
-                
-                total += suma;
-            
-           
-}
-<h4>Precio total: @total</h4>
-</table>
